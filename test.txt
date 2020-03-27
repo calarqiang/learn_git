@@ -1,2 +1,3 @@
 千万别用windows自带的记事本编辑这个文件，因为他会自带一个0xefbbbf（十六进制）的字符
 建议使用Notepad++,Notepad++的默认编码设置为UTF-8 without BOM
+新增一项说明
